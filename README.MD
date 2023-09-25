@@ -1,5 +1,9 @@
-My name is Nathan Phan. I am a senior in Electrical Engineering. I grew up in Tupelo, MS with my brother and mother. Before Mississippi State University, I went to Itawamaba Community College. There I got my associates of science then transferred over to MSU. 
-
+My name is Nathan Phan, and I grew up in Tupelo, MS with my brother and mother. I graduated from Tupelo Highschool in 
+2019. After Highschool I decided to go to community college at Itawamba community college. 
+From there I transferred to Mississippi State University to pursue to be an Electrical Engineer. 
+During the summers I work with my family at a family-owned Nail shop. At MS state I am part of 
+the Mississippi State University Vietnamese Student Association executive board as the 
+president.
 
 
 <!---
